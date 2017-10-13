@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="checkbox">tabian.com.sharedpreferences.checkbox</string>
+    <string name="name">tabian.com.sharedpreferences.name</string>
+    <string name="password">tabian.com.sharedpreferences.password</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
